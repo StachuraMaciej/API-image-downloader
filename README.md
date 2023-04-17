@@ -7,4 +7,4 @@ Project is created with:
 * HTML
 * CSS
 * JavaScript
-* API
+* APII
