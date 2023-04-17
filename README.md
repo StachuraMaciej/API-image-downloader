@@ -4,7 +4,7 @@ This web page is an image gallery app that allows users to download and display 
 # Technologies
 
 Project is created with:
-*HTML
-*CSS
-*JavaScript
-*API
+* HTML
+* CSS
+* JavaScript
+* API
